@@ -1,0 +1,6 @@
+
+This video chat application is designed specifically for users who want to discuss coding problems over video chat. It allows multiple users to join a video discussion, making it an ideal platform for group collaboration.
+One of the key features of this application is screen sharing, which allows users to share their computer screens with others in the discussion. This is particularly useful for discussing code, as users can show their code editor or programming environment and get feedback from others in real-time.
+you have the option to select a specific coding problem topic, from a pre-existing list. Once you choose a topic, you can join in on a discussion with other users who are also working on solving problems related to that particular topic. It's a great way to collaborate and learn from others in a real-time, interactive environment.
+In addition to screen sharing, the application also supports video and voice chat, allowing users to communicate effectively with each other. Users can easily switch between different modes of communication depending on their needs.
+Overall, this video chat application provides an efficient and convenient way for users to discuss coding problems with others. With its powerful features and intuitive interface, it's a great tool for anyone who needs to collaborate with others on coding projects.
